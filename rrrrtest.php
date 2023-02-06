@@ -7,4 +7,12 @@ gb
 s
 gdb
 sg
-bi
+
+eg
+d
+g
+dgb
+dfg
+b
+dfg
+bfgdbgfjjjjjjjjjjjjjjjjjjbi
